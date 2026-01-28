@@ -19,9 +19,9 @@ const Navbar = () => {
         </li>
       </ul> */}
       <div className="flex  justify-center gap-2">
-        <a href="https://github.com/jeel-patel-04" target="/"><img className="invert px-2  w-11 cursor-pointer" src="/icons/github.png" alt="github" title="Github" /></a>
-        <a href="https://www.linkedin.com/in/jeel-patel-b0370b249/"target="/"><img className="invert px-2  w-11 cursor-pointer" src="/icons/linkedin.png" alt="linkedin" title="Linkedin"/></a>
-        <a href="https://jeelspatel.netlify.app/" target="/"><img className="invert px-2  w-11 cursor-pointer" src="/icons/aboutme.png" alt="developer" title="Developer"/></a>
+        <a href="https://github.com/manthanjain2107" target="/"><img className="invert px-2  w-11 cursor-pointer" src="/icons/github.png" alt="github" title="Github" /></a>
+        <a href="https://www.linkedin.com/in/manthan-jain-66a37a305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"target="/"><img className="invert px-2  w-11 cursor-pointer" src="/icons/linkedin.png" alt="linkedin" title="Linkedin"/></a>
+        {/* <a href="https://jeelspatel.netlify.app/" target="/"><img className="invert px-2  w-11 cursor-pointer" src="/icons/aboutme.png" alt="developer" title="Developer"/></a> */}
       </div>
       </div>
     </nav>
